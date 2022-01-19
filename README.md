@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/lroberta569">
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=lroberta569&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroberta569&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lroberta569&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroberta569&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
  <div style="display: inline_block"><br>
@@ -16,8 +16,6 @@
   <img align="center" alt="Lari-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Lari-Nodejs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Lari-Nodejs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-  <img align="right" alt="Lari-pic" height="150" style="border-radius:50px;"      src="https://share-cdn.picrew.me/shareImg/org/202201/338224_oQmoUUdZ.png">
   </div>
   
   ##
