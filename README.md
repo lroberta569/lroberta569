@@ -1,8 +1,5 @@
 ### Oi, eu sou a Larissa Roberta!
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroberta569&layout=compact&langs_count=7&theme=dracula"/>
-
  <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lari-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
