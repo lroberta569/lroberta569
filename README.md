@@ -1,4 +1,4 @@
-### Oi, eu sou a Larissa Roberta!
+### Oi!
 
  <a href="https://github.com/lroberta569">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroberta569&layout=compact&langs_count=7&theme=tokyonight"/>
