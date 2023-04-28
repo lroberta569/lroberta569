@@ -1,7 +1,7 @@
 
 <table align="right">
-<tr><td><a href="README.md">:flag_us: English</a></td></tr>
-<tr><td><a href="README_pt.md">:flag_br: Português</a></td></tr>
+<tr><td><a href="README.md">English</a></td></tr>
+<tr><td><a href="README_pt.md">Português</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
