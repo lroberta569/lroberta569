@@ -3,12 +3,12 @@
 <tr><td><a href="README_pt.md">Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;👩‍💻 &nbsp;Currently studying programming. \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for innovation, learning and science.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving and automating daily routines, games and animals\
-&nbsp;&nbsp;&nbsp;:brazil: &nbsp;Living in Brazil.
+&nbsp;&nbsp;&nbsp;👩‍💻 &nbsp;Atualmente estudando programação. \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela inovação, aprendizado e ciência.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por resolver problemas e automatizar rotinas diárias, jogos e animais\
+&nbsp;&nbsp;&nbsp;:brazil: &nbsp;Morando no Brasil.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/larissa-roberta569/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;Principal domínio tecnológico</b></summary>
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
@@ -65,11 +65,11 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 -->
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Outras conhecimentos, sempre aprendendo</b></summary>
   <br/>
 
 
-![Javascript](https://img.shields.io/badge/-javascript-yellow??&style=flat&logo=javascript&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/-JAVASCRIPT-yellow?&style=flat&logo=javascript&logoColor=white)&nbsp;
 ![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
@@ -79,10 +79,10 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=lroberta569&hide_border=true&theme=transparent" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=lroberta569&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
     </p>
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lroberta569&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=transparent" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroberta569&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
