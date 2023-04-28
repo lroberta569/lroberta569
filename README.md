@@ -70,7 +70,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
   <br/>
 
 
-![Javascript](https://img.shields.io/badge/-javascript-yellow??&style=flat&logo=javascript&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/-JAVASCRIPT-yellow?&style=flat&logo=javascript&logoColor=white)&nbsp;
 ![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
