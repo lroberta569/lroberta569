@@ -1,7 +1,7 @@
-<div align="center">  
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lroberta569&show_icons=true&count_private=true&hide_border=true&title_color=87CEEB&icon_color=87CEEB&text_color=c9d1d9&bg_color=0d1117" alt="Larissa Roberta github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroberta569&layout=compact&hide_border=true&title_color=87CEEB&text_color=87CEEB&bg_color=0d1117" />
-</div>
+</div> -->
 
 
 <div style="display: inline_block"><br>
